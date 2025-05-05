@@ -6,11 +6,10 @@
 
 <div style="border: 3px solid #8A2BE2; border-radius: 15px; padding: 20px; margin: 20px; background: #2d0036;">
     About Me:
-- 🔮 Coding Magic with Python
 - 💡 I turn ideas into code & share them here
 
 
-print("building something awesome...")
+print("Earth looks good from Moon...")
 
 
 </div>
